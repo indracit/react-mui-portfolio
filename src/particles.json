@@ -1,9 +1,5 @@
 {
-  "background": {
-    "color": {
-      "value": "#282c34"
-    }
-  },
+
   "fpsLimit": 120,
   "interactivity": {
     "events": {
@@ -35,10 +31,10 @@
   },
   "particles": {
     "color": {
-      "value": "#ffffff"
+      "value": "#FFFFFF"
     },
     "links": {
-      "color": "#ffffff",
+      "color": "#FFFFFF",
       "distance": 150,
       "enable": true,
       "opacity": 0.5,
@@ -52,7 +48,7 @@
       "enable": true,
       "outMode": "bounce",
       "random": false,
-      "speed": 6,
+      "speed": 4,
       "straight": false
     },
     "number": {
